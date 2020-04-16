@@ -1,2 +1,3 @@
 # GuessTheNumber
-Html/Css/Js
+- web application build using the Html/Css/Js technologies
+
