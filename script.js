@@ -52,7 +52,7 @@ function displayResult(numberGuess) {
 function initGame() {
   correctNumber = getRandomNumber();
   document.getElementById("result").innerHTML = "";
-
+  document.getElementById("number-guess").value = "";
   guesses = [];
   displayHistory();
 }
